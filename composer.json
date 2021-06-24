@@ -12,6 +12,7 @@
     ],
     "license": "MIT",
     "require": {
+        "ext-gd": "*",
         "php": "^7.3|^8.0",
         "fakerphp/faker": "1.14.1",
         "fideloper/proxy": "4.4.1",
