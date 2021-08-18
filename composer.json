@@ -37,7 +37,7 @@
         "ext-zip": "*",
         "ext-zlib": "*",
         "php": "^7.3|^8.0",
-        "fakerphp/faker": "1.14.1",
+        "fakerphp/faker": "1.19.0",
         "fideloper/proxy": "4.4.1",
         "fruitcake/laravel-cors": "3.0.0",
         "guzzlehttp/guzzle": "7.4.1",
@@ -49,7 +49,6 @@
     "require-dev": {
         "barryvdh/laravel-debugbar": "3.6.7",
         "facade/ignition": "2.17.5",
-        "fakerphp/faker": "1.19.0",
         "friendsofphp/php-cs-fixer": "3.6.0",
         "laravel/sail": "1.13.5",
         "mockery/mockery": "1.5.0",
