@@ -26,7 +26,7 @@
         "facade/ignition": "2.10.2",
         "fakerphp/faker": "1.19.0",
         "friendsofphp/php-cs-fixer": "3.0.0",
-        "laravel/sail": "1.8.6",
+        "laravel/sail": "1.13.5",
         "mockery/mockery": "1.5.0",
         "nunomaduro/collision": "5.5.0",
         "phpunit/phpunit": "9.5.6"
