@@ -2232,16 +2232,16 @@
         },
         {
             "name": "joy/voyager-datatable",
-            "version": "v1.0.4",
+            "version": "v1.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/rxcod9/joy-voyager-datatable.git",
-                "reference": "76db74c1cfd1014765cf4ba222c498f1c2c4b8b0"
+                "reference": "96164eb6318cca39a2eefd78bd7efaa2592799cb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rxcod9/joy-voyager-datatable/zipball/76db74c1cfd1014765cf4ba222c498f1c2c4b8b0",
-                "reference": "76db74c1cfd1014765cf4ba222c498f1c2c4b8b0",
+                "url": "https://api.github.com/repos/rxcod9/joy-voyager-datatable/zipball/96164eb6318cca39a2eefd78bd7efaa2592799cb",
+                "reference": "96164eb6318cca39a2eefd78bd7efaa2592799cb",
                 "shasum": ""
             },
             "require": {
@@ -2301,7 +2301,7 @@
             ],
             "support": {
                 "issues": "https://github.com/rxcod9/joy-voyager-datatable/issues",
-                "source": "https://github.com/rxcod9/joy-voyager-datatable/tree/v1.0.4"
+                "source": "https://github.com/rxcod9/joy-voyager-datatable/tree/v1.0.5"
             },
             "funding": [
                 {
@@ -2309,7 +2309,7 @@
                     "type": "patreon"
                 }
             ],
-            "time": "2022-03-07T06:52:47+00:00"
+            "time": "2022-03-07T07:48:40+00:00"
         },
         {
             "name": "justinrainbow/json-schema",
