@@ -15,7 +15,7 @@
         "php": "^7.3|^8.0",
         "fideloper/proxy": "4.4.1",
         "fruitcake/laravel-cors": "3.0.0",
-        "guzzlehttp/guzzle": "7.4.1",
+        "guzzlehttp/guzzle": "7.9.2",
         "joy/voyager-datatable": "^1.0",
         "laravel/framework": "~6.0|~7.0|~8.0",
         "laravel/tinker": "2.7.0",
